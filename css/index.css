@@ -1258,7 +1258,7 @@ form button:hover{
     justify-content: center;
     border-bottom-left-radius: 3px;
     border-top-left-radius: 3px;
-    background: whitesmoke;
+    background: rgba(245, 245, 245, 0.264);
 }
 .color-panel img{
     height: 40px; 
@@ -1328,7 +1328,7 @@ form button:hover{
     height:auto;
     width:150px;
     padding: 10px;
-    background: whitesmoke;
+    background: rgba(245, 245, 245, 0.264);
     font-family: poppins;
     font-size: 16px;
     display: flex;
