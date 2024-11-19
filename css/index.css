@@ -1356,17 +1356,10 @@ For devices with smaller width like mobile phone
 
 @media only screen and (max-width: 550px){
 
-    #header {
-        animation: none !important; /* Desactiva animación */
-        transform: none !important; /* Evita cualquier transformación */
+    #loader {
+        display: none !important; /* Oculta el loader en móviles */
     }
-
-    .social-media-links, 
-    .header-image, 
-    .extra-sections {
-        display: none; /* Oculta contenido extra en móvil */
-    }
-
+    
     .header-content{
         height: 100vh;
         overflow: hidden;
