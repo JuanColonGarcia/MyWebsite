@@ -1359,11 +1359,13 @@ For devices with smaller width like mobile phone
     #loader {
         display: none !important; /* Oculta el loader en móviles */
     }
-    
+
     .header-content{
         height: 100vh;
+        max-height: 100vh;
         overflow: hidden;
         width: 100%;
+        box-sizing: border-box;
         float: left;
         display: flex;
         align-items: center;
@@ -1382,6 +1384,8 @@ For devices with smaller width like mobile phone
         float: right;
         height: auto;
         width: 0%;   
+        max-height: 90%; 
+
     }
     .social-media-links{
         width: 100%;
