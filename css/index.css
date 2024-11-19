@@ -1360,6 +1360,14 @@ For devices with smaller width like mobile phone
         display: none !important; /* Oculta el loader en móviles */
     }
 
+    .menubar{
+        position: absolute;
+        right:4%;
+        top: 80%;
+        cursor: pointer;
+        opacity: .8;
+        transition: all .4s ease;
+    }
     .header-content{
         height: 100vh;
         max-height: 100vh;
