@@ -1501,7 +1501,7 @@ For devices with smaller width like mobile phone
         height: 0px;
         text-align: center;
         overflow: hidden;
-        border-radius: 10%;
+        border-radius: 0%;
     }
     .service{
         height:320px;
