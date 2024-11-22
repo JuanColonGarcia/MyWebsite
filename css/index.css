@@ -1507,6 +1507,7 @@ For devices with smaller width like mobile phone
         object-fit: contain; 
         border-radius: 10%;
     }
+    
     .service{
         height:320px;
         width:90%;
