@@ -498,7 +498,7 @@ body{
     border-radius: 40px;
 }
 .about-img {
-    width: 450px; /* Tocado */
+    width: 400px; /* Tocado */
     height:auto;
     padding: 30px;
     padding-top: 10px;
@@ -1497,7 +1497,7 @@ For devices with smaller width like mobile phone
         border-radius: 10%;
     }
     .about-img {
-        width: 100%;
+        width: 450px; /* J*/
         height:250px;
         text-align: center;
         overflow: hidden;
@@ -2303,7 +2303,7 @@ for tabs and large phones
         animation: opacity 1.4s ease ;
     }
     .about-img {
-        width: 465px; /* Tocado */
+        width: 450px; /* Tocado */
         height:450px;
         padding: 30px;
         border-radius: 40px;
