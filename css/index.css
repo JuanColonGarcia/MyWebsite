@@ -1491,7 +1491,7 @@ For devices with smaller width like mobile phone
         flex-direction: column-reverse;
     }
     .about-img {
-        width: 450px;
+        width: 490px;
         height: 350px;
         text-align: center;
         overflow: hidden;
@@ -1956,7 +1956,7 @@ for tabs and large phones
         border-radius: 40px;
     }
     .about-img {
-        width: 450px; /*TOCADO*/
+        width: 400px; /*TOCADO*/
         height:auto;
         padding: 30px;
         padding-top: 10px;
