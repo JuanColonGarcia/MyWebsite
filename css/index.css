@@ -1497,7 +1497,7 @@ For devices with smaller width like mobile phone
         border-radius: 10%;
     }
     .about-img {
-        width: 450px; /* J*/
+        width: 250px; /* J*/
         height:250px;
         text-align: center;
         overflow: hidden;
