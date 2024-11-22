@@ -498,7 +498,7 @@ body{
     border-radius: 40px;
 }
 .about-img {
-    width: 550px;
+    width: 450px; /* Tocado */
     height:auto;
     padding: 30px;
     padding-top: 10px;
@@ -1361,6 +1361,7 @@ For devices with smaller width like mobile phone
     }
 
 
+
     .header-content{
         height: 100vh;
         max-height: 100vh;
@@ -1391,7 +1392,7 @@ For devices with smaller width like mobile phone
     .social-media-links{
         width: 100%;
         left: 0;
-        bottom: 0;
+        bottom: 0px;
         position: absolute;
         padding: 10px;
         height: auto;
@@ -1496,7 +1497,7 @@ For devices with smaller width like mobile phone
         border-radius: 10%;
     }
     .about-img {
-        width: 100%;
+        width: 450px; /* J*/
         height:250px;
         text-align: center;
         overflow: hidden;
@@ -1950,7 +1951,7 @@ for tabs and large phones
         border-radius: 40px;
     }
     .about-img {
-        width: 550px;
+        width: 450px; /*TOCADO*/
         height:auto;
         padding: 30px;
         padding-top: 10px;
@@ -2302,7 +2303,7 @@ for tabs and large phones
         animation: opacity 1.4s ease ;
     }
     .about-img {
-        width: 40%;
+        width: 465px; /* Tocado */
         height:450px;
         padding: 30px;
         border-radius: 40px;
